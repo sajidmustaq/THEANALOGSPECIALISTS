@@ -1,0 +1,39 @@
+.body {
+    text-align: center;
+    max-width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+ .top{
+    text-align: center;
+ }
+  .navbar {
+    border-top: 5px solid;
+    border-bottom: 2px solid;
+    max-width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  a:hover {
+    color: #f70606;
+  }
+  
+  li {
+    display: inline;
+    padding: 25px;
+  }
+  
+  .copy {
+    max-width: 600px;
+  }
