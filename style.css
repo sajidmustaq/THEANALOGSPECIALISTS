@@ -23,12 +23,14 @@
   a {
     text-decoration: none;
     color: #000000;
+   
   }
   
   a:hover {
-    color: #f70606;
+    color: #f70606; 
+    transform: scale(5);
   }
-  
+
   li {
     display: inline;
     padding: 25px;
@@ -36,4 +38,8 @@
   
   .copy {
     max-width: 600px;
+  }
+  .About{
+    color: #ffffff;
+    background-color: rgb(5, 99, 1);
   }
